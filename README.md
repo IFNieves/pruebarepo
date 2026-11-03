@@ -1,3 +1,3 @@
 # pruebarepo
-prueba para laboratorio
+# prueba para laboratorio
 It's a markdown file in this repository
